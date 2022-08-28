@@ -12,7 +12,7 @@ I'm an Android Engineer and working currently at <a href="http://www.n11.com"> N
 
 - 💬 Talk to me about anything
 
-- 🔭 Some weekends I'm developing to <a href="https://github.com/burhankarakurtm/weekend-project"> Weekend Project </a> for improve myself
+- 🔭I'm developing to <a href="https://github.com/burhankarakurtm/weekend-project"> Weekend Project </a> to improve myself on some weekends
 
 - 📝 Contact me <a href="https://www.linkedin.com/in/burhan-karakurt-754a5613b"> Linkedin </a> or burhankarakurt3@gmail.com
 
